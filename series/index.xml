@@ -3,5 +3,12 @@
         <title>Series - Series - Ziqi Huang&#39;s website</title>
         <link>http://example.org/series/</link>
         <description>Series - Series - Ziqi Huang&#39;s website</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="http://example.org/series/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 28 Feb 2022 14:27:14 &#43;0000</lastBuildDate><atom:link href="http://example.org/series/" rel="self" type="application/rss+xml" /><item>
+    <title>how-to-doit</title>
+    <link>http://example.org/series/how-to-doit/</link>
+    <pubDate>Mon, 28 Feb 2022 14:27:14 &#43;0000</pubDate><author>
+        <name>xxxx</name>
+    </author><guid>http://example.org/series/how-to-doit/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>
