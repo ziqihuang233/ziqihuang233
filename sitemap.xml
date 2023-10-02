@@ -2,6 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://ziqihuang233.github.io/about/</loc><lastmod>2023-10-01T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://ziqihuang233.github.io/authors/</loc><lastmod>2022-02-28T14:27:14&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ziqihuang233.github.io/categories/</loc><lastmod>2022-02-28T14:27:14&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ziqihuang233.github.io/tags/diagram/</loc><lastmod>2022-02-28T14:27:14&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -13,5 +14,4 @@
             <loc>https://ziqihuang233.github.io/series/</loc><lastmod>2022-02-28T14:27:14&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ziqihuang233.github.io/tags/</loc><lastmod>2022-02-28T14:27:14&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ziqihuang233.github.io/</loc><lastmod>2022-02-28T14:27:14&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://ziqihuang233.github.io/first_post/</loc><lastmod>2022-02-28T14:27:14&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://ziqihuang233.github.io/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://ziqihuang233.github.io/first_post/</loc><lastmod>2022-02-28T14:27:14&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
